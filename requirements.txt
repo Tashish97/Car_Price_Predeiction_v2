@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+numpy
+pickle4
+requests
+scikit-learn
+scipy
