@@ -5,3 +5,4 @@ pickle4
 requests
 scikit-learn
 scipy
+jinja2
